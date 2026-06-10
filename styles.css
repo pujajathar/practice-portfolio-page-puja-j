@@ -3,15 +3,23 @@ body {
     background-color: honeydew
 }
 h1 {
+   
     color:black;
 }
 h2{
-    color: brown;
+    
+    color:crimson
 }
 h3{
-    color:blueviolet
+    
+    color:orangered
 }
 p{
-    
+   
     font-size: 18px;
+}
+
+img {
+  width: 5%;
+  height: 100px;
 }
