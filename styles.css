@@ -1,25 +1,66 @@
 
 body {
-    background-color: honeydew
-}
-h1 {
-   
-    color:black;
-}
-h2{
     
-    color:crimson
+    background-color: rgb(136, 182, 180);
+}
+header h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(197, 236, 223);
+    color:black;
+
+    
+}   
+
+h2{
+    text-align:center;
+   padding-top: 20px;
+   padding-bottom: 5px;
+    background-color: rgb(165, 220, 202);
+    color:rgb(3, 3, 84);
+}
+h2 p{
+    padding-top: 0px;
 }
 h3{
-    
-    color:orangered
+   text-align:center;
+    padding-top: 5px;
+    padding-left: 15px;
+    color:rgb(231, 70, 12);
+    background-color: rgb(221, 233, 229);
 }
 p{
-   
+    text-align:center;
     font-size: 18px;
+    padding-top: 0.5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
 }
 
 img {
   width: 5%;
   height: 100px;
+  padding-left: 15px;
+}
+.about-me{
+    
+    text-align:center;
+    background-color: rgb(210, 225, 225);
+    padding-top: 0.5px;
+    padding-bottom: 5px;
+  }
+
+ .skill-set {
+    background-color: rgb(210, 225, 225);
+    padding-top: 0.5px;
+    padding-bottom: 5px;
+   text-align: center;
+    list-style-position:inside;
+} 
+
+footer{
+    text-align: center;
 }
